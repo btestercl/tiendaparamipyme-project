@@ -16,9 +16,9 @@
     ],
     "require": {
         "composer/installers": "^2.2",
-        "drupal/core-composer-scaffold": "9.4.14",
-        "drupal/core-project-message": "9.4.14",
-        "drupal/core-recommended": "9.4.14",
+        "drupal/core-composer-scaffold": "9.4.15",
+        "drupal/core-project-message": "9.4.15",
+        "drupal/core-recommended": "9.4.15",
         "drush/drush": "^11.5",
         "roberto-araya/bt_store_cl": "1.x-dev",
         "vlucas/phpdotenv": "^5.5",

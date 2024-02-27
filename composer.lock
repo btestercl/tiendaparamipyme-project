@@ -14607,16 +14607,16 @@
         },
         {
             "name": "roberto-araya/bt_store_cl",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roberto-araya/bt_store_cl.git",
-                "reference": "948e245479f90f026cc2f4304653292e9181aed8"
+                "reference": "869d87e53d0581f0e79d7e3f18ce97392ac82635"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roberto-araya/bt_store_cl/zipball/948e245479f90f026cc2f4304653292e9181aed8",
-                "reference": "948e245479f90f026cc2f4304653292e9181aed8",
+                "url": "https://api.github.com/repos/roberto-araya/bt_store_cl/zipball/869d87e53d0581f0e79d7e3f18ce97392ac82635",
+                "reference": "869d87e53d0581f0e79d7e3f18ce97392ac82635",
                 "shasum": ""
             },
             "require": {
@@ -14719,9 +14719,9 @@
             ],
             "support": {
                 "issues": "https://github.com/roberto-araya/bt_store_cl/issues",
-                "source": "https://github.com/roberto-araya/bt_store_cl/tree/1.0.2"
+                "source": "https://github.com/roberto-araya/bt_store_cl/tree/1.0.3"
             },
-            "time": "2024-02-22T11:43:32+00:00"
+            "time": "2024-02-27T20:19:39+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",

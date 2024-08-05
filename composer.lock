@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ece1b8b2c019aeb7288bd93e580b632",
+    "content-hash": "700b93e48e5ab9eceb02caa087dc467d",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -14620,16 +14620,16 @@
         },
         {
             "name": "roberto-araya/bt_store_cl",
-            "version": "1.0.12",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roberto-araya/bt_store_cl.git",
-                "reference": "197c4df07c5aecda2a6cfd59bef2990a0c2218a4"
+                "reference": "984ea4d33c88723a1db3d32d9ac71db3d06663f7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roberto-araya/bt_store_cl/zipball/197c4df07c5aecda2a6cfd59bef2990a0c2218a4",
-                "reference": "197c4df07c5aecda2a6cfd59bef2990a0c2218a4",
+                "url": "https://api.github.com/repos/roberto-araya/bt_store_cl/zipball/984ea4d33c88723a1db3d32d9ac71db3d06663f7",
+                "reference": "984ea4d33c88723a1db3d32d9ac71db3d06663f7",
                 "shasum": ""
             },
             "require": {
@@ -14732,9 +14732,9 @@
             ],
             "support": {
                 "issues": "https://github.com/roberto-araya/bt_store_cl/issues",
-                "source": "https://github.com/roberto-araya/bt_store_cl/tree/1.0.12"
+                "source": "https://github.com/roberto-araya/bt_store_cl/tree/1.0.13"
             },
-            "time": "2024-05-30T18:23:40+00:00"
+            "time": "2024-07-01T15:33:03+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
@@ -23762,5 +23762,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
